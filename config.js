@@ -16,10 +16,10 @@ var SPACE_SHIP = {
   }
 };
 
-var NEW_OBJECT = {
-  x : 0,
-  y : 0,
-  w : 15,
-  vx: 3,
-  vy: 1
+var SQUARE = {
+  x : 0,  //x position of square
+  y : 0,  //y position of square
+  w : 15, //width of square
+  vx: 3,  //horizontal velocity
+  vy: 1   //vertical velocity
 };
