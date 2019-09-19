@@ -18,5 +18,8 @@ var SPACE_SHIP = {
 
 var NEW_OBJECT = {
   x : 0,
-  y : 0
+  y : 0,
+  w : 15,
+  vx: 3,
+  vy: 1
 };
